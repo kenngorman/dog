@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dog()
+comment0.text=\r\n\ Constructor\ -\ there\ is\ a\ method\ with\ the\ same\ name\ as\ the\ class.\r\n\ \ \ \ \ This\ is\ the\ method\ that\ creates\ the\ Dog\ object.\r\n\ \ \ \ \ There\ can\ be\ more\ than\ one\ constructor,\ depending\ upon\ how\ we\ want\r\n\ \ \ \ \ \ \ \ \ \ \ to\ create\ the\ Dog\ object.\r\n\ \ \ \ This\ constructor\ will\ create\ a\ "default"\ Dog\ object\ where\ the\ name,\ age\r\n\ \ \ \ \ \ \ \ \ \ and\ breed\ are\ automatically\ added.\r\n
+comment1.params=newName\ newAge\ newBreed\ newCollar
+comment1.target=Dog(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ This\ constuctor\ also\ makes\ a\ Dog\ object,\ but\ it\ requires\ that\ you\ send\r\n\ \ \ \ the\ name,\ age\ and\ breed.\ Those\ three\ items\ are\ called\ parameters.\r\n\ Each\ one\ of\ the\ parameters\ you\ give\ this\ method\ are\ them\ transfered\ into\r\n\ \ \ \ \ another\ new\ Dog\ object.\ \ \ \ \r\n
+comment2.params=
+comment2.target=java.lang.String\ speak()
+comment2.text=\r\n\ Methods\ -\ this\ is\ code\ that\ shows\ what\ a\ Dog\ object\ can\ do.\ When\ a\ Dog\ object\r\n\ \ \ \ \ is\ created,\ it\ is\ given\ the\ ability\ to\ speak.\ The\ method\ will\ create\ a\r\n\ \ \ \ \ String\ and\ add\ the\ text\ "woof"\ to\ that\ String.\ The\ method\ will\ then\ give\r\n\ \ \ \ \ that\ String\ back\ to\ you\ using\ the\ retun\ statement.\r\n
+comment3.params=
+comment3.target=java.lang.String\ shake()
+comment3.text=\r\n\ After\ you\ have\ completed\ the\ above\ code,\ try\ the\ following...\r\n\ Add\ an\ instance\ variable\ that\ will\ hold\ the\ color\ of\ the\ dog's\ collar\r\n\ Add\ two\ additional\ methods\ -\ each\ one\ is\ a\ trick\ the\ dog\ can\ do.\ \r\n\ \ \ \ \ When\ you\ create\ a\ new\ Dog\ object,\ add\ one\ trick.\r\n
+comment4.params=
+comment4.target=java.lang.String\ rollOver()
+comment5.params=
+comment5.target=java.lang.String\ playPiano()
+numComments=6
